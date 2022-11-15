@@ -1,4 +1,4 @@
-# Dialy-work
+# Daily-work
 Today my task was to complete the requirements of CMC Project.The requirements  that we have to fullfile are:
 
 1) If sales invoice value exceeds estimated cost then give alert message.
