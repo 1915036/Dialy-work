@@ -16,3 +16,4 @@ generate the bill.
 Before start work things that i learn are :
 ## 1) Connection in doctype:
 Inorder to make connection we have to link two
+Stock work 12:00 -
