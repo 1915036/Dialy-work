@@ -26,3 +26,32 @@ Stock work 12:00 -
 - Now my task was to upload the user(employee)on erp.So this work is done through Data import list ,where i  download the template according to requirment and put the provided data in the downloaded template and save it with .csv extenstion.There was  many  problem faced by me while uploading the user which are:
 1) In the first time it showing the error that **The following values do not exist for Department: Computer Science Engineering – GNDEC**
 2) Error regarding the User id of user(employee) which was their e-mail.
+
+# Daily-Work (18-11-22)
+
+- Today at morning 8:30 uploading the left user on erp.gndec.ac.in
+- 9:00 Disscuss the CMC project with team.
+- 10:25 Disscuss the Nankana Project with Satinder sir and had a meeting with Nankana School officals at 11:15.
+- 11:15-12:26 In the meeeting we show our work to them and get their views on it and their requirements.
+- 12:38 Discuss a problem related to the guru.gndec.ac.in with Amarpreet Mam(MBA Block).
+  
+  Working on rest of work.
+  
+# Daily-Work (19-11-22)
+  
+ - Today we went to the Nankana School and had the meeting with teachers .In the meeting they show us their feebank software and school fee structure.
+ - In the evening their was seminer of other GD members .
+
+# Daily-Work (21-11-22)
+
+- Start working on Nankana Public school project and trying to meet their requirements in student applicant form.
+- 10:32 -  The first thing they want in sibling  details  table is that
+they only want to select the student ID and other details of selected
+student come accordingly.This  work is done , now we only have to select the
+student id and corresponding to this  First ,last name ,gender and
+date of birth is come accordingly.
+- Set the stock problem in erp.gndec.ac.in ,like disable the unwanted item .
+- Trying to solve the error in quotion , like it was give the error of multicurrency _ invoice while creating the sales invoice.
+
+  
+   
