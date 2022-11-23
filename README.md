@@ -53,5 +53,8 @@ date of birth is come accordingly.
 - Set the stock problem in erp.gndec.ac.in ,like disable the unwanted item .
 - Trying to solve the error in quotion , like it was give the error of multicurrency _ invoice while creating the sales invoice.
 
-  
+# Daily-Work (22-11-22)
+
+- Working on Education domain like Student Admission ,Fees.
+- Did some work on guru.gndec.ac.in, solved the problems faced by teacher regarding participents in the courses.
    
