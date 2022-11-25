@@ -57,4 +57,16 @@ date of birth is come accordingly.
 
 - Working on Education domain like Student Admission ,Fees.
 - Did some work on guru.gndec.ac.in, solved the problems faced by teacher regarding participents in the courses.
-   
+  
+# Daily-Work (23-11-22)
+
+- Today i make connection of fee on student applicant form.
+- Work on Fees Structure and make some program and fee category.
+
+# Daily-Work (24-11-22)
+
+- Make some LDAP user then upload and enroll them in their respective courses.
+- Make duplicate of student applicant form to do same changes without changing the core of form.
+- Make refrence workflow to understand the process and discuss it with Komal.
+
+- 
