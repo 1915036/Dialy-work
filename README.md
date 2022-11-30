@@ -69,4 +69,20 @@ date of birth is come accordingly.
 - Make duplicate of student applicant form to do same changes without changing the core of form.
 - Make refrence workflow to understand the process and discuss it with Komal.
 
+# Daily-Work (25-11-22)
+
+- Today , I work on Nanak School project :
+
+  1. Create the doctype Applicant Form ,add the connection of Applicant
+fee in the doctype.
+
+ 2. Did some work on a CMC project like Company address and learned one
+thing that we can we a customer an internal customer under
+representing company from @ Rai sir.
+
+ 3. Create one more doctype Registration Form and also add the
+connection  form where Applicants who submit the applicant fee can
+submit his/her registration fee (5000).
+
+ Things now i am going to do is that in the registration fee form ,fee component fetch automatically while selecting the fee structure.
 
