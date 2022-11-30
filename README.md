@@ -73,7 +73,7 @@ date of birth is come accordingly.
 
 - Today , I work on Nanak School project :
 
-  1. Create the doctype Applicant Form ,add the connection of Applicant
+ 1. Create the doctype Applicant Form ,add the connection of Applicant
 fee in the doctype.
 
  2. Did some work on a CMC project like Company address and learned one
@@ -83,6 +83,5 @@ representing company from @ Rai sir.
  3. Create one more doctype Registration Form and also add the
 connection  form where Applicants who submit the applicant fee can
 submit his/her registration fee (5000).
-
- Things now i am going to do is that in the registration fee form ,fee component fetch automatically while selecting the fee structure.
+Things now i am going to do is that in the registration fee form ,fee component fetch automatically while selecting the fee structure.
 
