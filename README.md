@@ -95,3 +95,8 @@ Things now i am going to do is that in the registration fee form ,fee component 
 for each stage. Set permissions under it until the applicant did not deposit 500/- could not be able to open the registration form. Similarly if    registration has been completed only then he/she is able to see the enrollments.
 So, now we(Jasjit, Komalpreet) are working on it .
 
+# Daily-Work (29-11-22)
+
+- Today we had a discussion with @ Satinderpal Sir and sir told us that we have to do all the steps (applicant and registration fee )  in one
+doctype.For this we have to make three connections (Applicant fee , Advance Fee or Registration fee , Admission fee) in one doctype so it will be easy for us to do all the steps accordingly.
+- I made one doctype named Student Form in gne12 and added the three connections of fees which are shown after saving the form. These fees are Applicant Fee , Advanced Fee and Fee.
