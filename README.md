@@ -85,3 +85,6 @@ connection  form where Applicants who submit the applicant fee can
 submit his/her registration fee (5000).
 Things now i am going to do is that in the registration fee form ,fee component fetch automatically while selecting the fee structure.
 
+# Daily-Work (26-11-22)
+
+- Today ,I am going to set the  view of the dashboard for the accountantmam(Nankana School Teacher). After this i will work on fee structure and fee         concession according to the school.
