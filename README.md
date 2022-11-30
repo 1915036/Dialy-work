@@ -88,3 +88,10 @@ Things now i am going to do is that in the registration fee form ,fee component 
 # Daily-Work (26-11-22)
 
 - Today ,I am going to set the  view of the dashboard for the accountantmam(Nankana School Teacher). After this i will work on fee structure and fee         concession according to the school.
+
+# Daily-Work (28-11-22)
+
+- This morning all SDC members had a meeting  (google meet) with Satinder Sir regarding work progress . So in the meeting we discussed our problem  and    work status with sir.In our task (School project), sir told us to make workflow for applicant and registration forms instead of making different doctype
+for each stage. Set permissions under it until the applicant did not deposit 500/- could not be able to open the registration form. Similarly if    registration has been completed only then he/she is able to see the enrollments.
+So, now we(Jasjit, Komalpreet) are working on it .
+
