@@ -100,3 +100,18 @@ So, now we(Jasjit, Komalpreet) are working on it .
 - Today we had a discussion with @ Satinderpal Sir and sir told us that we have to do all the steps (applicant and registration fee )  in one
 doctype.For this we have to make three connections (Applicant fee , Advance Fee or Registration fee , Admission fee) in one doctype so it will be easy for us to do all the steps accordingly.
 - I made one doctype named Student Form in gne12 and added the three connections of fees which are shown after saving the form. These fees are Applicant Fee , Advanced Fee and Fee.
+# Daily-Work (30-11-22)
+
+- Today my task is to add an Action button of Approved , Reject and
+Enroll button on student applicant doctype so that after submitting
+the fees and applicant form we enroll the applicant in a program or
+course.
+
+# Daily-Work (1-12-22)
+
+-  Last we discuss the Student Applicant process with @ Satinderpal Sir and sir said us to make the connection of fees on one doctype so accordingly to sir we create one doctype named Waheguru on gne2.gndec.ac.in under Education Domain . In this doctype we (me, Komalpreet) make the connection of Applicant fee, Advanced Fee.After saving the form these connections are visible  and then we submit the form.
+Then the task was to add an action button on this, this action button was about Approved or reject the form and after applying the condition of approved or reject we update the form the enroll option to enroll the applicant in the Program.
+
+- Now the problem we faced was that when we enroll the applicant by clicking on Enroll button on Waheguru doctype it shows that:
+"Student Applicant NSPS-SESSION-2023-2024-00003 not found" So, we are going to resolve the conflict.
+- I think that it is because there is no relation between Waheguru and Program Enrollment doctypes , so now I am going to see it and report here regularly if it work.
