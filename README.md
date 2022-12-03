@@ -115,3 +115,8 @@ Then the task was to add an action button on this, this action button was about 
 - Now the problem we faced was that when we enroll the applicant by clicking on Enroll button on Waheguru doctype it shows that:
 "Student Applicant NSPS-SESSION-2023-2024-00003 not found" So, we are going to resolve the conflict.
 - I think that it is because there is no relation between Waheguru and Program Enrollment doctypes , so now I am going to see it and report here regularly if it work.
+
+ # Daily-Work (2-12-22)
+ 
+ - Today we crete the user for NSPS school. These user are the Teachers ,so give them Instructor role at last. The main motive was  to show the courses to the instructor. For this we have to create the program ,courses. 
+ 
